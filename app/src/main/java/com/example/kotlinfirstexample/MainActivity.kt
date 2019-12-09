@@ -3,7 +3,7 @@ package com.example.kotlinfirstexample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-// 수정 및 업데이트 테스트
+// 수정 및 업데이트 테스트 시작
 
 class MainActivity : AppCompatActivity() {
 
